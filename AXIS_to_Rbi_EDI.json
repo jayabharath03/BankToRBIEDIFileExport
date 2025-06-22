@@ -1,0 +1,32 @@
+{
+  "header" : {
+    "bankCode" : "AXIS000987",
+    "messageId" : "98470aa6-a07a-433c-b9a6-dfa10175c2bc",
+    "timeStampUTC" : "2025-06-22T15:07:28.452Z"
+  },
+  "applicant" : {
+    "name" : "Jayabharath",
+    "dob" : "2003-10-03",
+    "gender" : "male",
+    "pan" : "CPQUJ1234H"
+  },
+  "contact" : {
+    "email" : "jaybharath@gmail.com",
+    "phone" : "9876543210"
+  },
+  "address" : {
+    "line1" : "890 anna nagar",
+    "city" : "Chennai",
+    "state" : "Tamil Nadu",
+    "pincode" : "600001"
+  },
+  "accountDetails" : {
+    "accountNumber" : "102934982334",
+    "accountType" : "SAVINGS",
+    "initialDeposit" : 10000.0
+  },
+  "registry" : {
+    "branchCode" : "AXISCHEN123",
+    "kycStatus" : "VERIFIED"
+  }
+}
